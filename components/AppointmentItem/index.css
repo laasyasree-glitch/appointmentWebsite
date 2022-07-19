@@ -1,0 +1,18 @@
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5%;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  padding: 2%;
+  font-family: 'Roboto';
+}
+
+button {
+  background-color: transparent;
+  align-self: flex-start;
+  border: 0px;
+}
